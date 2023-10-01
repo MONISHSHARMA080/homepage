@@ -1,0 +1,18 @@
+.container {
+    display: flex;
+    gap: 20px;
+    align-items: flex-start; /* Align items at the top */
+    background-color: rgb(0, 0, 0);
+  }
+
+  .vertical-image {
+    width: 200px;
+    height: 400px;
+    background-color: lightblue;
+  }
+
+  .horizontal-image {
+    width: 200px;
+    height: 200px;
+    background-color: lightgreen;
+  }
